@@ -3,5 +3,3 @@
 I'm a web developer from Japan. I like to think about how to keep application simple. I'm also passionate about music, movie, snowboarding.
 
 * * *
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuichi176&layout=compact)](https://github.com/yuichi176/github-readme-stats)
